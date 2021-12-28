@@ -1,2 +1,6 @@
-# ResearchByID
-My share of some reading resources and notes
+# ID's Learning Area 😎
+
+### 1. Readings and Summarizes
+
+
+### 2. Weekly Group Meeting Notes 
