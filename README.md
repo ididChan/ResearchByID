@@ -4,6 +4,8 @@
 
 - A Deception Based Approach for Defeating OS and Service Fingerprinting [[LINK]](ref_and_notes/A_Deception_Based_Approach_for_Defeating_OS_and_Service_Fingerprinting.pdf)
 
+- Moving OS Fingerprint Adaptively in SDN Network [[LINK]](ref_and_notes/Moving_OS_fingerprint_adaptively_in_SDN_network.pdf)
+
 ### 2. Weekly Group Meeting Notes 
 
 - 2021-12-28 [[LINK]](weekly_meeting/20211228.md)
