@@ -6,6 +6,8 @@
 
 - Moving OS Fingerprint Adaptively in SDN Network [[LINK]](ref_and_notes/Moving_OS_fingerprint_adaptively_in_SDN_network.pdf)
 
+- SDN-based solutions for Moving Target Defense network protection [[LINK]](ref_and_notes/SDN-based_solutions_for_moving_target_defense_network_protection.pdf)
+
 ### 2. Weekly Group Meeting Notes 
 
 - 2021-12-28 [[LINK]](weekly_meeting/20211228.md)
