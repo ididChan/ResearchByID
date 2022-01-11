@@ -8,6 +8,8 @@
 
 - SDN-based solutions for Moving Target Defense network protection [[LINK]](ref_and_notes/SDN-based_solutions_for_moving_target_defense_network_protection.pdf)
 
+- An SDN-Based Fingerprint Hopping Method to Prevent Fingerprinting Attacks [[LINK]](ref_and_notes/An_SDN-Based_Fingerprint_Hopping_Method_to_Prevent_Fingerprinting_Attacks.pdf)
+
 ### 2. Weekly Group Meeting Notes 
 
 - 2021-12-28 [[LINK]](weekly_meeting/20211228.md)
