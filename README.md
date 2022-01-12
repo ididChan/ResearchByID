@@ -13,3 +13,5 @@
 ### 2. Weekly Group Meeting Notes 
 
 - 2021-12-28 [[LINK]](weekly_meeting/20211228.md)
+
+- 2022-01-12 [[LINK]](weekly_meeting/20220112.md)
